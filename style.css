@@ -1,0 +1,35 @@
+.headline {
+  color: darkorange;
+  text-align: center;
+}
+
+.background {
+  background-color: azure;
+}
+
+.paragraph {
+  color: darkgreen;
+  width: 405px;
+  border:10px solid darkgreen;
+  border-style: dotted;
+}
+
+.image {
+  width: 300px;
+  border: 5px solid darkorange;
+}
+
+.table {
+  background-color: lightgrey;
+  width: 200px;
+  border: 10px solid darkgreen;
+  padding: 20px;
+  margin: 10px;
+  border-style: groove;
+  border-collapse: collapse;
+}
+
+.tr,
+th {
+  border: 1px solid black
+}
